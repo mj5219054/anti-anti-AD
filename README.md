@@ -10,36 +10,8 @@
 但是我依然持与对待GFW相同的观点：<strong>我可以不去看，但我去看的权利不能被轻易剥夺。</strong>  
 </p>
 
-[![Anti anti-AD](https://img.shields.io/badge/Anti-anti--AD-da282a?style=flat-square)](https://github.com/Mosney/anti-anti-AD)
-[![GitHub issues](https://img.shields.io/github/issues/Mosney/anti-anti-AD?style=flat-square)](https://github.com/Mosney/anti-anti-AD/issues)
-[![Fork on GitHub](https://img.shields.io/github/forks/Mosney/anti-anti-AD.svg?style=flat-square)](https://github.com/Mosney/anti-anti-AD/fork)
-[![GitHub license](https://img.shields.io/github/license/Mosney/anti-anti-AD?style=flat-square)](https://github.com/Mosney/anti-anti-AD/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FMosney%2Fanti-anti-AD)](https://twitter.com/intent/tweet?text=%E6%88%91%E5%9C%A8GitHub%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86anti-anti-AD:&url=https%3A%2F%2Fgithub.com%2FMosney%2Fanti-anti-AD)
-[![Star on GitHub](https://img.shields.io/github/stars/Mosney/anti-anti-AD.svg?style=social)](https://github.com/Mosney/anti-anti-AD/)
+Update
 
-Update：
--- 
-
-- 反复横跳的[gentlyxu语录总结](/Quotations.md)
-- [其它质疑的声音](/OthersVoices.md) (仅限在404之前被记录下的)  
-- [神奇的屏蔽条目](/AmazingEntries.md) (目前来源仅限issue区反馈出的，实际列表中还有多少这样的条目不得而知)
-- <details><summary>相关讨论：</summary>
-    https://github.com/AdguardTeam/AdGuardHome/issues/1988<br>
-    https://github.com/collinbarrett/FilterLists/issues/1674<br>
-    https://github.com/badmojr/1Hosts/issues/22<br>
-</details>
-
-TLDR（太长不看版）：
---
-**鉴于原repo所有者喜欢删帖，此处给出以下图片[出处](https://github.com/privacy-protection-tools/anti-AD/issues/10 "出处")和[Archive存档](https://archive.vn/W1ttN)**  
-###### (由于当时没有想到讨论会以404的方式终结，故第二张图对应的[issue](https://github.com/privacy-protection-tools/anti-AD/issues/140)没有存档，只有GitHub的回复邮件提醒可供一窥)  
-
-![image](https://user-images.githubusercontent.com/22477230/84666132-48fe6780-af53-11ea-96cc-fe8104b766e6.png)
-![image](https://user-images.githubusercontent.com/22477230/84666526-c4601900-af53-11ea-95c7-13495837d670.png)
-
-此处引用[neoHost](https://github.com/neoFelhz/neohosts "neoHost")README：
-> <img src="https://i.loli.net/2017/10/26/59f16e54c30af.png" alt="logo" width="100" height="100" align="right" />
->
 ># neoHosts
 >
 >> **自由、负责、克制** 的去广告 Hosts
@@ -97,7 +69,8 @@ TLDR（太长不看版）：
 
 Tips
 --
-**推荐一些其它优秀且同样具有屏蔽广告、防止追踪等功能的列表：**
+**推荐一些其它优秀且同样具有屏蔽广告、防止追踪等功能的列表：下面是一些收集的规则链接：**
+
 - 乘风广告过滤规则 https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 - 乘风视频广告过滤 https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
 - 大圣净化内置列表 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
@@ -110,8 +83,189 @@ Tips
   也可在`NextDNS-隐私-拦截列表`中查看
 - NextDNS维护的系统级跟踪列表 https://github.com/nextdns/metadata/tree/master/privacy/native
   也可在`NextDNS-隐私-深度跟踪保护`中查看
+  
+-  EasyList
+-EasyList
+ -去除国际网页中大多数广告，包括不需要的框架、图像和对象
+链接 https://easylist-downloads.adblockplus.org/easylist.txt
+
+EasyList China
+EasyList针对国内的补充规则
+链接 https://easylist-downloads.adblockplus.org/easylistchina.txt
+
+EasyPrivacy
+从网络上上完全删除所有形式的跟踪，包括Web错误、跟踪脚本和信息收集，从而保护您的个人数据
+链接 https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+EasyList Cookie List
+阻止Cookie标语，GDPR覆盖窗口和其他与隐私相关的通知
+链接 https://easylist-downloads.adblockplus.org/easylist-cookie.txt
+
+ 
+
+-乘风去广告
+ 
+
+-广告规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+
+-视频规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+
+ 
+
+ 
+
+-Anti-AD
+-目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护
+
+-、电视盒子广告、APP内置广告，同时屏蔽了一些日志收集、大数据统计等涉及个人隐私信息的站点，能够保护个人隐私不被偷偷上传
+- https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+-CDN加速：https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
+
+-Adbyby
+-链接 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
+
+-CDN加速链接：https://cdn.jsdelivr.net/gh/adbyby/xwhyc-rules@master/lazy.txt
+
+-链接 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/video.txt
+
+-CDN加速链接：https://cdn.jsdelivr.net/gh/adbyby/xwhyc-rules@master/video.txt
+
+-CJX's Annoyance List
+-过滤烦人的自我推广，并补充 EasyPrivacy 隐私规则
+
+- 一、CJX’s Annoyance List (去自推列表)
+链接: https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
+
+CDN加速链接：https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt
+
+二、CJX’s uBlock list (uBlock 规则)
+https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
+
+CDN加速链接：https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt
+
+ 
+
+ADgk
+适用于 AdGuard for Android 的去广告规则（不保证在其他软件使用的效果）
+去除大部分软件的开屏广告
+拦截大部分广告联盟的广告
+主规则订阅地址: https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+
+CDN加速链接： https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
+
+百度搜索结果内屏蔽百家号 https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt
+
+CDN加速链接： https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/kill-baidu-ad.txt
+
+ 
+
+I don't care about cookies
+屏蔽网站的 cookies 相关的警告
+链接 https://www.i-dont-care-about-cookies.eu/abp/
+
+ 
+
+ 
+
+- jiekouAD
+-  X浏览器酷安@大萌主，维护的专门针对手机端盗版网站广告的拦截规则.
+- 链接 https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt
+
+ 
+
+- 知乎过滤器
+- 去除开屏、时间轴、首页推荐、回答列表、回答底部及评论区广告，个人中心VIP横幅-
+去除知乎会员推荐的内容（严格版）
+标准版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt
+
+CDN加速链接：https://cdn.jsdelivr.net/gh/zsakvo/AdGuard-Custom-Rule@master/rule/zhihu.txt
+严格版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
+
+CDN加速链接：https://cdn.jsdelivr.net/gh/zsakvo/AdGuard-Custom-Rule@master/rule/zhihu-strict.txt
+
+ 
+
+广告终结者插件使用的拦截规则
+广告终结者使用的拦截规则，基于ChinaList+EasyList修正维护
+
+http://sub.adtchrome.com/adt-chinalist-easylist.txt
+
+ 
+
+EasylistChina+EasylistLite+CJX’sAnnoyance
+由 halflife 维护的拦截规则 ，合并了 EasylistChina、EasylistLite、CJX’sAnnoyance，以及补充的一些规则，每日更新。
+
+https://gitee.com/halflife/list/raw/master/ad.txt
+
+ 
+
+Hosts过滤器
+大圣净化 - 针对国内视频网站
+链接 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
+1024_hosts - 1024网站和澳门皇家赌场
+链接 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+
+Google hosts - 提高网站访问速度
+链接 https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts
+
+Hblock - 综合多种源集合体屏蔽广告跟踪和恶意软件
+链接 https://hblock.molinero.xyz/hosts
+
+Mvps - 屏蔽美欧地区英文网站相关的广告
+链接 http://winhelp2002.mvps.org/hosts.txt
+
+neoHosts - 国内屏蔽挖矿统计JS&360&百度&法轮功等
+链接 https://hosts.nfz.moe/full/hosts
+
+StevenBlack - 屏蔽国外网站广告-国外维护
+链接 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+yhosts - 屏蔽国内网站广告-国内维护
+链接 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+
+YousList - 屏蔽韩国网站广告
+链接 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
+
+ 
+
+ 
+
+ 
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 - ~~[neoFelhz/neohosts](https://github.com/neoFelhz/neohosts)  自由·负责·克制 去广告 Hosts 项目~~ `缺乏维护`
 - ~~[vokins/yhosts](https://github.com/vokins/yhosts)  已由[VeleSila/yhosts](https://github.com/VeleSila/yhosts)接手~~ `同样包含主观条目`
+
+
+
+
+
+
 
 
 ~~若GitHub访问受限可使用具有中国大陆地区网络的[jsDelivr](http://www.jsdelivr.com/)加速列表源~~  
