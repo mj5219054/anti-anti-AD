@@ -1,11 +1,6 @@
 
-### 本repo存在的意义完全在于[privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD "privacy-protection-tools/anti-AD")及其目前的维护者[gentlyxu](https://github.com/gentlyxu "gentlyxu")
 ###### 创建这个repo的目的是为了提醒打算或正在使用此列表的用户了解一下维护者的所作所为再做决定是否要承担风险继续使用。
 <br/>
-
-<p align="center">
-可能我这辈子都<strong>根本不会去访问</strong>这些藏在列表深处的“加料”网站， 
-</p>
 <p align="center">
 但是我依然持与对待GFW相同的观点：<strong>我可以不去看，但我去看的权利不能被轻易剥夺。</strong>  
 </p>
@@ -55,15 +50,15 @@ Tips
 链接 https://easylist-downloads.adblockplus.org/easylist.txt
 
 EasyList China
-EasyList针对国内的补充规则
+* EasyList针对国内的补充规则
 链接 https://easylist-downloads.adblockplus.org/easylistchina.txt
 
 EasyPrivacy
-从网络上上完全删除所有形式的跟踪，包括Web错误、跟踪脚本和信息收集，从而保护您的个人数据
+* 从网络上上完全删除所有形式的跟踪，包括Web错误、跟踪脚本和信息收集，从而保护您的个人数据
 链接 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 EasyList Cookie List
-阻止Cookie标语，GDPR覆盖窗口和其他与隐私相关的通知
+* 阻止Cookie标语，GDPR覆盖窗口和其他与隐私相关的通知
 链接 https://easylist-downloads.adblockplus.org/easylist-cookie.txt
 
  
@@ -101,12 +96,12 @@ EasyList Cookie List
 - 一、CJX’s Annoyance List (去自推列表)
 链接: https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
 
-CDN加速链接：https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt
+* CDN加速链接：https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt
 
 二、CJX’s uBlock list (uBlock 规则)
 https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
 
-CDN加速链接：https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt
+* CDN加速链接：https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt
 
  
 
@@ -114,26 +109,26 @@ ADgk
 适用于 AdGuard for Android 的去广告规则（不保证在其他软件使用的效果）
 去除大部分软件的开屏广告
 拦截大部分广告联盟的广告
-主规则订阅地址: https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+— 主规则订阅地址: https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 
-CDN加速链接： https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
+- CDN加速链接： https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
 
-百度搜索结果内屏蔽百家号 https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt
+* 百度搜索结果内屏蔽百家号 https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt
 
-CDN加速链接： https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/kill-baidu-ad.txt
+* CDN加速链接： https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/kill-baidu-ad.txt
 
  
 
-I don't care about cookies
-屏蔽网站的 cookies 相关的警告
-链接 https://www.i-dont-care-about-cookies.eu/abp/
+— I don't care about cookies
+* 屏蔽网站的 cookies 相关的警告
+* 链接 https://www.i-dont-care-about-cookies.eu/abp/
 
  
 
  
 
 - jiekouAD
--  X浏览器酷安@大萌主，维护的专门针对手机端盗版网站广告的拦截规则.
+*  X浏览器酷安@大萌主，维护的专门针对手机端盗版网站广告的拦截规则.
 - 链接 https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt
 
  
@@ -143,68 +138,77 @@ I don't care about cookies
 去除知乎会员推荐的内容（严格版）
 标准版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt
 
-CDN加速链接：https://cdn.jsdelivr.net/gh/zsakvo/AdGuard-Custom-Rule@master/rule/zhihu.txt
-严格版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
+* CDN加速链接：https://cdn.jsdelivr.net/gh/zsakvo/AdGuard-Custom-Rule@master/rule/zhihu.txt
 
-CDN加速链接：https://cdn.jsdelivr.net/gh/zsakvo/AdGuard-Custom-Rule@master/rule/zhihu-strict.txt
+* 严格版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
+
+* CDN加速链接：https://cdn.jsdelivr.net/gh/zsakvo/AdGuard-Custom-Rule@master/rule/zhihu-strict.txt
 
  
 
 广告终结者插件使用的拦截规则
-广告终结者使用的拦截规则，基于ChinaList+EasyList修正维护
+* 广告终结者使用的拦截规则，基于ChinaList+EasyList修正维护
 
-http://sub.adtchrome.com/adt-chinalist-easylist.txt
+* http://sub.adtchrome.com/adt-chinalist-easylist.txt
 
  
 
 EasylistChina+EasylistLite+CJX’sAnnoyance
 由 halflife 维护的拦截规则 ，合并了 EasylistChina、EasylistLite、CJX’sAnnoyance，以及补充的一些规则，每日更新。
 
-https://gitee.com/halflife/list/raw/master/ad.txt
+* https://gitee.com/halflife/list/raw/master/ad.txt
 
  
 
 Hosts过滤器
 大圣净化 - 针对国内视频网站
-链接 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+* 链接 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 
 1024_hosts - 1024网站和澳门皇家赌场
-链接 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+* 链接 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 
 Google hosts - 提高网站访问速度
-链接 https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts
+* 链接 https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts
 
 Hblock - 综合多种源集合体屏蔽广告跟踪和恶意软件
-链接 https://hblock.molinero.xyz/hosts
+* 链接 https://hblock.molinero.xyz/hosts
 
 Mvps - 屏蔽美欧地区英文网站相关的广告
-链接 http://winhelp2002.mvps.org/hosts.txt
+* 链接 http://winhelp2002.mvps.org/hosts.txt
 
 neoHosts - 国内屏蔽挖矿统计JS&360&百度&法轮功等
-链接 https://hosts.nfz.moe/full/hosts
+* 链接 https://hosts.nfz.moe/full/hosts
 
 StevenBlack - 屏蔽国外网站广告-国外维护
-链接 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+* 链接 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 yhosts - 屏蔽国内网站广告-国内维护
-链接 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+* [接}](ttps://raw.githubusercontent.com/vokins/yhosts/master/hosts)
 
-YousList - 屏蔽韩国网站广告
-链接 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
+_ [YousList - 屏蔽韩国网站广告]
+* [接](ttps://raw.githubusercontent.com/yous/YousList/master/hosts.txt)
+
+ _ My Allow(我的白名單)
+
+* [链接](https://trli.coding.net/p/file/d/file/git/raw/master/ad-allow.txt)
 
  
-
- 
-
- 
+- Description: 移除一些烦人的元素
+* [链接](https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt)
 
 
+* [拦截](tps://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt)
+  
+* [p规则地址指向](https://gitee.com/halflife/list/issues/I1CV06)
+  
 
-  
-  
-  
-  
-  
+自用
+
+* ttps://trli.coding.net/p/file/d/file/git/raw/master/ad-allow.txt）
+
+*（ https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt）
+
+
 -[其它方案](https://filterlists.com/)  去广告市面上的产品的网站集合
   
   
