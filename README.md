@@ -211,8 +211,39 @@ _ [YousList - 屏蔽韩国网站广告]
 
 -[其它方案](https://filterlists.com/)  去广告市面上的产品的网站集合
   
-  
-  
+
+# AdGuard DNS 方案
+
+* 61.134.1.5
+
+* 61.134.1.4
+
+* 119.29.29.29
+
+* 223.6.6.6
+
+* 180.76.76.76
+
+* 117.50.10.10
+
+* 218.30.19.40
+
+* 117.50.11.11
+
+* tls://dns.pub
+
+* tls://223.5.5.5
+
+* tls://dot.360.cn
+
+* tls://dns.alidns.com
+
+* https://dns.pub/dns-quer
+
+* https://dns.alidns.com/dns-query
+
+* https://dns.ipv6dns.com/dns-query
+
   
   
   
