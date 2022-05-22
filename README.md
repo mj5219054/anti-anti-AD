@@ -208,6 +208,25 @@ _ [YousList - 屏蔽韩国网站广告]
 
 *（ https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt）
 
+*     依然的爱：https://github.com/E7KMbb/AD-hosts
+*     yhosts：https://github.com/VeleSila/yhosts
+*     大圣净化：https://github.com/jdlingyu/ad-wars
+*     1024_hosts：https://github.com/Goooler/1024_hosts
+*    小贝塔维护hosts：https://github.com/rentianyu/Ad-set-hosts
+*     StevenBlack：https://github.com/StevenBlack/hosts
+*     海阔影视去广告hosts
+*     ilpl：https://github.com/ilpl/ad-hosts
+*     iOSAdblockList：https://github.com/BlackJack8/iOSAdblockList11
+*     QuarkList: https://github.com/francis-zhao/quarklist
+*     手机edge浏览器Adblock Plus规则 https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist
+
+
+
+
+
+
+
+
 
 -[其它方案](https://filterlists.com/)  去广告市面上的产品的网站集合
   
